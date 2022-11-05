@@ -1,3 +1,4 @@
+
 spring:
   datasource:
     url: jdbc:mysql://localhost/firedepartment?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
